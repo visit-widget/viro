@@ -26,11 +26,11 @@ ios/Pods/
 ios/ViroReact.xcodeproj/xcuserdata/
 ios/ViroReact.xcworkspace/xcuserdata/
 test/ios/ViroExample.xcworkspace/xcuserdata/
-test/ios/ViroExample/Pods/Pods.xcodeproj/xcuserdata/
-test/ios/ViroExample/ViroExample.xcodeproj/xcuserdata/
-test/ios/ViroExample/ViroExample.xcworkspace/xcuserdata/
-test/ios/ViroExample/ViroExample.xcworkspace/xcshareddata/
-test/ios/ViroExample/Pods/
+test/ios/Pods/Pods.xcodeproj/xcuserdata/
+test/ios/ViroExample.xcodeproj/xcuserdata/
+test/ios/ViroExample.xcworkspace/xcuserdata/
+test/ios/ViroExample.xcworkspace/xcshareddata/
+test/ios/Pods/
 ios/ngrokendpoint.txt
 ios/ViroRenderer/ViroKit.framework/_CodeSignature/
 
