@@ -15,5 +15,4 @@ Pod::Spec.new do |s|
   s.author              = 'Viro Media'
   s.requires_arc        = true
   s.platform            = :ios, '9.3'
-  s.dependency 'React'
 end
